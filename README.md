@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![Screenshot from 2024-10-29 02-13-50](https://github.com/user-attachments/assets/09bd767a-c81c-4e75-8dd7-741180cfca6d)
+
+## link for aiascan
+
+ [here](https://testnet.aiascan.com/address/0xF63100bfb1AD40630664aA998C7045b299FD3924)
+
+### contract address :- 0xF63100bfb1AD40630664aA998C7045b299FD3924
+
+### blockchain network :- AIA Testnet
+
+
 
 ## Getting Started
 
